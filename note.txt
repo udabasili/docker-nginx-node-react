@@ -1,0 +1,4 @@
+we remove git from front-end  the create-react-app makes, since we dont want to track our code from the front end
+but from our main server
+rm -rf .git 
+then we use git log to see if we have tracked component
